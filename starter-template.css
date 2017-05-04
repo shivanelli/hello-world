@@ -1,0 +1,28 @@
+body {
+  padding-top: 30px;
+  background-color: lightgrey;
+  
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+ img.bodypics {
+    width: 350px;
+    height: 220px;
+} 
+
+#pic1 {
+    position: absolute;
+    top: 380px;
+  left: 400px;
+}
+#pic2 {
+    position: absolute;
+    top: 380px;
+    left: 800px;
+}
+
+
+
+footer{border-top: solid; border-width: 1px; width:100%; position:absolute; top:610px; left: 0px;} 
